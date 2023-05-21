@@ -1,0 +1,11 @@
+code_data:
+obsahuje skripty na třídění dat, dále obsahuje filtry, které jsou provedeny
+na 2 různých vstupních datových souborech a to ve složkách new_data_filters a
+old_data_filters -> v kazde slozce jsou vystupy z techto filtru
+    new_data_filters:
+        age_groups: zde je soubor pro 11 vekovych skupin (validni soubor je Student_groups_by_age_valid_2.xlsx)
+    statistics:
+        obsahuje statisticke skripty, ktere byly pouzity pro vypocet jednotlivych statistickych ukazatelu, potrebnych pro praci
+
+matlab:
+obsahuje kontroly ruznych zjistovanych hodnot, soubory jsou popsany tak, aby z nich bylo viditelne o co konkretne se jedna
